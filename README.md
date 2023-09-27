@@ -1,2 +1,1 @@
-# sorting_algorithms
-new repo
+sorting_algorithms
